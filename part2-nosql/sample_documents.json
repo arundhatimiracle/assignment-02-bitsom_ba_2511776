@@ -1,0 +1,41 @@
+[
+  {
+    "category": "Electronics",
+    "product_id": "E101",
+    "name": "iPhone 14",
+    "price": 75000,
+    "brand": "Apple",
+    "specs": {
+      "ram": "6GB",
+      "storage": "128GB",
+      "warranty_years": 1
+    }
+  },
+  {
+    "category": "Clothing",
+    "product_id": "C201",
+    "name": "Men T-Shirt",
+    "price": 799,
+    "brand": "Nike",
+    "attributes": {
+      "size": ["S", "M", "L"],
+      "color": "Black",
+      "fabric": "Cotton"
+    }
+  },
+  {
+    "category": "Groceries",
+    "product_id": "G301",
+    "name": "Organic Milk",
+    "price": 60,
+    "brand": "Amul",
+    "details": {
+      "expiry_date": "2024-12-01",
+      "weight": "1L",
+      "nutrition": {
+        "calories": 150,
+        "protein": "8g"
+      }
+    }
+  }
+]
